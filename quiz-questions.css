@@ -1,0 +1,77 @@
+.bg-container
+{
+  background-color: violet;
+    background-size: cover;
+    height: 150vh;
+    padding: 20px;
+}
+.paragraph1{
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+    text-align-last: right;
+    margin: 15px;
+    
+}
+.card1
+{
+    padding: 20px;
+    border-radius: 15px;
+   background-color: white;
+   
+}
+.heading1
+{
+    text-align: center;
+    color: #1f2933;
+
+}
+.paragraph2{
+    color: #323f4b;
+}
+.image
+{
+    height: 250px;
+    width: 380px;
+    padding: 25px;
+}
+.card2
+{
+    background-color: white;
+    border-radius: 15px;
+    
+    padding: 20px;
+    
+
+}
+.border1
+{
+    border-style: solid;
+    border-radius: 15px;
+    padding: 20px;
+    border-width: 1px;
+    box-shadow: #367ec5;
+    margin: 10px;
+    font-size: 20px;
+    
+
+} 
+.border3
+{
+    background-color: blueviolet;
+    border: 15px;
+    border-radius: 15px;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+    
+}
+.button
+{
+    padding: 10px;
+}
+
+.vamshi
+{
+    margin: 30px;
+}
